@@ -1,2 +1,5 @@
-# linkedin-revenue-engine
-    LinkedIn plugin to generate conversations and booked meetings
+linkedin-revenue-engine/
+│
+├── README.md
+└── Skills/
+    └── linkedin-sequence.md
