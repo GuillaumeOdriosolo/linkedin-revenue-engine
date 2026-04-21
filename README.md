@@ -1,6 +1,6 @@
 # LinkedIn Revenue Engine
 
-Turn LinkedIn into a client acquisition machine.
+Turn LinkedIn into a predictable source of qualified conversations and booked meetings.
 
 This plugin provides high-performance commands to:
 - Generate outbound sequences
@@ -9,7 +9,9 @@ This plugin provides high-performance commands to:
 - Book meetings
 - Improve offer positioning
 
-## Commands
+No fluff. No generic copywriting. Only messages designed to start real conversations and drive revenue.
+
+## Commands (built for real conversations)
 
 - /linkedin-sequence
 - /dm-reply
